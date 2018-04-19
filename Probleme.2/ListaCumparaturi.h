@@ -10,10 +10,9 @@ public:
 	ListaCumparaturi();
 	ListaCumparaturi(char const * name, int quantity);
 
-	~ListaCumparaturi();
-
-	void operator+=(Cumparaturi& item);
-	void operator-=(char const * name);
+	ListaCumparaturi& operator+=(const Cumparaturi& item);
+	ListaCumparaturi& operator-=(char const * name);
+	ListaCumparaturi& operator| (const ListaCumparaturi& list);
 
 	void Print();
 };

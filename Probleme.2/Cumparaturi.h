@@ -1,14 +1,12 @@
 #pragma once
 class Cumparaturi
 {
+public:
 	char * Name;
 	int Quantity;
-public:
+
 	Cumparaturi();
 	Cumparaturi(const char* name, int q);
 
-	~Cumparaturi();
-
 	void Print() const;
-	char const * GetName() const;
 };

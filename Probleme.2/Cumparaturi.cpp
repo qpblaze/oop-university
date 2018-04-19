@@ -10,23 +10,14 @@ Cumparaturi::Cumparaturi()
 }
 
 Cumparaturi::Cumparaturi(const char* name, int q)
-	: Cumparaturi()
 {
-	strcpy(Name, name);
+	Name = new char[strlen(name) + 1];
 	Quantity = q;
-}
 
-Cumparaturi::~Cumparaturi()
-{
-	delete[] Name;
+	strcpy(Name, name);
 }
 
 void Cumparaturi::Print() const
 {
 	std::cout << Name << ": " << Quantity;
-}
-
-char const* Cumparaturi::GetName() const
-{
-	return Name;
 }
