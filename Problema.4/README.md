@@ -1,4 +1,4 @@
-# Problema 2
+# Problema 4
 ### Scrieţi clasele necesare astfel încît codul următor sa functioneze corect:
   
 
