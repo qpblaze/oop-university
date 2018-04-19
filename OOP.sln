@@ -13,7 +13,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab4.Mostenire", "Lab4.Most
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab7.Template", "Lab7.Template\Lab7.Template.vcxproj", "{B2A68B10-1198-4BE8-9311-EDEFCE12F616}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Probleme.2", "Probleme.2\Probleme.vcxproj", "{515ACBCF-3EBB-406F-9666-3CC7B37CC123}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problema.2", "Problema.2\Problema.2.vcxproj", "{515ACBCF-3EBB-406F-9666-3CC7B37CC123}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problema.4", "Problema.4\Problema.4.vcxproj", "{6CB14244-8081-44E0-A492-7975074C34F3}"
 EndProject
