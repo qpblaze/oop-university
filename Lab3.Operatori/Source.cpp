@@ -1,6 +1,7 @@
 ﻿#include <cstdlib>
 #include <iostream>
-#include "../Probleme/ListaCumparaturi.h"
+#include "../Probleme.2/Cumparaturi.h"
+#include "../Probleme.2/ListaCumparaturi.h"
 
 using namespace std;
 
