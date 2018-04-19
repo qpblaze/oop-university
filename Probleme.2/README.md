@@ -4,20 +4,20 @@
 
     int main()  
     {  
-    	ListaCumparaturi l;
+		ListaCumparaturi l;
 
-	(l += Cumparaturi("paine", 5)) += Cumparaturi("peste", 2);
-	l.Print();
+		(l += Cumparaturi("paine", 5)) += Cumparaturi("peste", 2);
+		l.Print();
 
-	l -= "peste";
-	l.Print();
+		l -= "peste";
+		l.Print();
 
-	ListaCumparaturi l2;
-	l2 += Cumparaturi("lapte", 4);
-	l2 += Cumparaturi("paine", 10);
-	(l | l2).Print();
+		ListaCumparaturi l2;
+		l2 += Cumparaturi("lapte", 4);
+		l2 += Cumparaturi("paine", 10);
+		(l | l2).Print();
 
-	return 0;
+		return 0;
     }  
 
 > Operatorul “|” relizează reuniunea a doua liste de cumparaturi, iar în
