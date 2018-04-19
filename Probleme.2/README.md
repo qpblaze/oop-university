@@ -27,11 +27,11 @@
 |Task|Numar puncte|
 |--|--|
 |Clasa(clasele) scrie in fisiere .h si .cpp distincte|2 pct|
-|Codul cu main­ul dat ruleaza si afiseaza ce trebuie pe ecran| 3 pct  |
+|Codul cu main-ul dat ruleaza si afiseaza ce trebuie pe ecran| 3 pct  |
 |Codul compileaza corect| 2 pct  |
 |Implementare operator \| | 7 pct  |
 |Implementare operator +=|5 pct  |
-|Implementare operator ­=| 5 pct  |
+|Implementare operator -=| 5 pct  |
 |Implementare functie Print| 3 pct  |
 |Implementare constructor Cumparaturi| 3 pct  |
 
