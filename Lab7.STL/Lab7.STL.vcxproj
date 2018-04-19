@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{479F9210-B2E9-46C3-A6AA-DF4E6695773E}</ProjectGuid>
-    <RootNamespace>Lab4Mostenire</RootNamespace>
+    <ProjectGuid>{14980710-F8C1-49D0-AEBA-276065E7B9CF}</ProjectGuid>
+    <RootNamespace>Lab7STL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,16 +115,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Cerc.h" />
-    <ClInclude Include="Dreptunghi.h" />
-    <ClInclude Include="Forma.h" />
-    <ClInclude Include="Triunghi.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Cerc.cpp" />
-    <ClCompile Include="Dreptunghi.cpp" />
-    <ClCompile Include="Source.cpp" />
-    <ClCompile Include="Triunghi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
